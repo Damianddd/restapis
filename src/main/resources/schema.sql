@@ -1,3 +1,4 @@
+--tworzenie tabeli postów i komentarzy
 CREATE TABLE POST (
   id BIGINT AUTO_INCREMENT  PRIMARY KEY,
   title VARCHAR(400) NOT NULL,
